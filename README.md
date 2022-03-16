@@ -1,0 +1,7 @@
+# Code for "The survival-incorporated median versus the median in the survivors or in the always-survivors: What are we measureing? And why?"
+
+
+## Abstract
+
+Many clinical studies evaluate the benefit of a treatment based on both survival and other continuous/ordinal clinical outcomes, such as Quality of Life scores. In these studies, when subjects die before the follow-up assessment, these clinical outcomes become undefined and are truncated by death. Treating outcomes as ¡§missing¡¨ or ¡§censored¡¨ due to death can be misleading for treatment effect evaluation. We show that if we use the median in the survivors or in the always-survivors to summarize clinical outcomes, we may conclude that a trade-off exists between the probability of survival and good clinical outcomes, even in settings where both the probability of survival and the probability of any good clinical outcome are better for one treatment. Therefore, we advocate not always treating death as a mechanism through which clinical outcomes are missing, but rather as part of the outcome measure. To account for the survival status, we describe the survival-incorporated median as an alternative summary measure for outcomes in the presence of death. The survival-incorporated median is the threshold such that 50% of the population is alive with an outcome above that threshold. Through conceptual examples and an application to a prostate cancer treatment study, we show that the survival-incorporated median provides a simple and useful summary measure to inform clinical practice.
+
